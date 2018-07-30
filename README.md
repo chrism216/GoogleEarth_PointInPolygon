@@ -9,7 +9,7 @@
 ```
 python PointInPolygon.py
 ```
-5. The program will output a .csv file containing a table detailing which points are inside which polygons.
+5. The program will produce a .csv file in that directory, containing a table detailing which points are inside which polygons.
 
 Alternatively, an Excel file with the same funciontality is also attached, with instructions.
 
