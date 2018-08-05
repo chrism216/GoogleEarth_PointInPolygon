@@ -12,4 +12,4 @@ python PointInPolygon.py
 
 Alternatively, an Excel file with the same funciontality is also attached, with instructions.
 
-Sample PP.kml and PP.csv file are included, so you can demo this. Just overwrite this with your own file.
+Sample PP.kml and PP.csv file are included, so you can demo this. Just overwrite PP.kml with your own file, run the script and your results will be in PP.csv.
