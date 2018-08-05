@@ -1,0 +1,12 @@
+Name,longitude,latitude,Pol1,Pol2,Pol3,Pol4,Pol5,Pol6,Pol7,Pol8
+1,-73.96530766372123,40.76513709724303,False,False,False,True,False,False,False,False
+2,-73.98846851556175,40.75864738225841,False,False,False,True,False,False,False,False
+3,-73.97563251787247,40.72240472453466,False,True,False,False,False,False,False,False
+4,-74.00589001093071,40.72192411465678,False,True,False,False,False,False,False,False
+5,-73.97795396457344,40.73656435364966,False,False,True,False,False,False,False,False
+6,-73.95824190500183,40.78840723705888,False,False,False,False,True,False,False,False
+7,-73.92758643435774,40.8091119484128,False,False,False,False,False,False,False,False
+8,-73.96243697717969,40.81202698072127,False,False,False,False,False,True,False,False
+9,-73.9475359141653,40.82352450157033,False,False,False,False,False,False,True,False
+10,-73.93941718232435,40.85441257943149,False,False,False,False,False,False,False,True
+11,-74.0117351303422,40.70760402565433,True,False,False,False,False,False,False,False
