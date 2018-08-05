@@ -13,3 +13,4 @@ python PointInPolygon.py
 
 Alternatively, an Excel file with the same funciontality is also attached, with instructions.
 
+The file includes a sample PP.kml file, so you can demo this. Just overwrite this with your own file.
