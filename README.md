@@ -8,8 +8,8 @@
 ```
 python PointInPolygon.py
 ```
-4. The program will produce a .csv file in that directory, containing a table detailing which points are inside which polygons.
+4. The program will produce a file named PP.csv file in that directory, containing a table detailing which points are inside which polygons.
 
 Alternatively, an Excel file with the same funciontality is also attached, with instructions.
 
-The file includes a sample PP.kml file, so you can demo this. Just overwrite this with your own file.
+Sample PP.kml and PP.csv file are included, so you can demo this. Just overwrite this with your own file.
