@@ -1,6 +1,6 @@
 # Google Earth Pro: Find out which points are inside which polygons.
 
-You probably arrived here from [this thread](https://www.mrexcel.com/forum/excel-questions/828554-google-earth-determine-points-inside-polygon-using-coordinates.html?highlight=google+earth+points+polygons) in MrExcel.com. The thread had so many views that I imagined there might be some people interested in a Python version of this. So, here it is.
+You probably arrived here from [this thread](https://www.mrexcel.com/forum/excel-questions/828554-google-earth-determine-points-inside-polygon-using-coordinates.html?highlight=google+earth+points+polygons) in MrExcel.com. The thread had so many views that I imagined there might be some people interested in a Python version of it. So, here it is.
 
 ## Instructions
 
