@@ -14,4 +14,4 @@ python PointInPolygon.py
 
 __Alternatively, here's the [Excel file](https://www.mrexcel.com/forum/redirect-to/?redirect=https%3A%2F%2Fwww.dropbox.com%2Fs%2F707qslttz428v6w%2FPointInPolygon.xlsm%3Fdl%3D0).__
 
-Sample files are included (PP.kml and PP.csv), so you can demo this.
+Sample input and output files are included (PP.kml and PP.csv).
