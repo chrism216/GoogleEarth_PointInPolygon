@@ -12,6 +12,6 @@ python PointInPolygon.py
 ```
 4. The program will produce a file named PP.csv file in that directory, containing a table detailing which points are inside which polygons.
 
-__Alternatively, here's the [Excel file](https://www.mrexcel.com/forum/redirect-to/?redirect=https%3A%2F%2Fwww.dropbox.com%2Fs%2F707qslttz428v6w%2FPointInPolygon.xlsm%3Fdl%3D0).__
+__Alternatively, here's the [Excel file](https://www.dropbox.com/s/707qslttz428v6w/PointInPolygon.xlsm?dl=0).__
 
 Sample input and output files are included (PP.kml and PP.csv).
